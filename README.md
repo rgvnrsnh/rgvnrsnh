@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Projects<br>🌱 I’m currently learning MERN stack and DSA<br>💬 Ask me about C++, OOPS, JavaScript, NodeJS, MongoDB<br>📫 reach me at rsgangwar.ss@gmail.com<br>⚡ I love watching Animes, and playing Cricket
+🔭 I’m currently working in Solveda <br>🌱 I’m currently learning Java full Stack development and DSA<br>💬 Ask me about C++,Java, Spring, SQL, OOPS, JavaScript, NodeJS, MongoDB<br>📫 reach me at rsgangwar.ss@gmail.com<br>⚡ I love watching Animes, and playing Cricket
 
 
 ## 🌐 Socials:
